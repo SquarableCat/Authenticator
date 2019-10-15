@@ -1,14 +1,14 @@
 {
     "extName": {
-        "message": "인증 도구",
+        "message": "Authenticator",
         "description": "Extension Name."
     },
     "extShortName": {
-        "message": "인증 도",
+        "message": "Authenticator",
         "description": "Extension Short Name."
     },
     "extDesc": {
-        "message": "인증 도구는 브라우저에서 2단계 인증 코드를 생성합니다.",
+        "message": "Authenticator는 브라우저에서 2단계 인증 코드를 생성합니다.",
         "description": "Extension Description."
     },
     "added": {
@@ -28,7 +28,7 @@
         "description": "Scan QR Code."
     },
     "add_secret": {
-        "message": "수동 입력.",
+        "message": "수동 입력",
         "description": "Manual Entry."
     },
     "close": {
@@ -60,15 +60,15 @@
         "description": "Issuer."
     },
     "secret": {
-        "message": "비밀번호",
+        "message": "시크릿",
         "description": "Secret."
     },
     "updateSuccess": {
-        "message": "성공.",
+        "message": "업데이트 성공",
         "description": "Update Success."
     },
     "updateFailure": {
-        "message": "실패.",
+        "message": "업데이트 실패",
         "description": "Update Failure."
     },
     "about": {
@@ -156,7 +156,7 @@
         "description": "Remember Passphrase"
     },
     "clock_too_far_off": {
-        "message": "주의! 로컬 시간이 오차가 너무 큽니다. 계속하기 전에 고쳐주세요.",
+        "message": "주의! 컴퓨터 시간의 오차가 너무 큽니다. 계속하기 전에 고쳐주세요.",
         "description": "Local Time is Too Far Off"
     },
     "remind_backup": {
@@ -164,15 +164,15 @@
         "description": "Remind Backup"
     },
     "capture_failed": {
-        "message": "캡처에 실패했습니다. 페이지를 새로고침하고 다시 시도해주세요.",
+        "message": "캡처에 실패했습니다. 페이지를 새로 고침하고 다시 시도해주세요.",
         "description": "Capture Failed"
     },
     "based_on_time": {
-        "message": "시간 기반",
+        "message": "시간 기반(Timebase)",
         "description": "Time Based"
     },
     "based_on_counter": {
-        "message": "카운터 기반",
+        "message": "카운터 기반(Counterbase)",
         "description": "Counter Based"
     },
     "resize_popup_page": {
@@ -180,7 +180,7 @@
         "description": "Popup Page Settings"
     },
     "scale": {
-        "message": "배",
+        "message": "비율",
         "description": "Scale"
     },
     "export_info": {
@@ -216,7 +216,7 @@
         "description": "Error password warning when import backups."
     },
     "local_passphrase_warning": {
-        "message": "비밀번호가 로컬 위치에 저장되었으므로, 보안 메뉴에서 즉시 변경해주세요.",
+        "message": "비밀번호가 로컬 스토리지에 저장되었으므로, 보안 메뉴에서 즉시 변경해주세요.",
         "description": "localStorage password warning."
     },
     "remove": {
